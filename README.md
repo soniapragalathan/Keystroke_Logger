@@ -1,4 +1,6 @@
-A keylogger is a type of software or hardware that records every keystroke made on a computer or mobile device. It captures the information typed on a keyboard, including text entered into forms, passwords, messages, and other sensitive data. Keyloggers can be used for both legitimate and malicious purposes.
+**KeyLogger**
 
 
-A keylogger is a program designed to record every keystroke made on a computer. Using the pynput library in Python, which allows for monitoring and controlling input devices, a keylogger can be implemented to capture keyboard inputs
+Keystroke logging is the process of recording (logging) the keys pressed on a keyboard (usually when the user is unaware). It is also known as keylogging or keyboard capturing.
+These programs are used for troubleshooting technical problems with computers and business networks. It can also be used to monitor network usages but more often than not it is used for malicious intents like stealing passwords.The program illustrates in designing a keylogger for windows using PyCharm
+ 
